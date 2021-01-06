@@ -1,5 +1,12 @@
 # ZombieBTR
 
+## Pembagian Role :
+| Nama                   | NIM           | Role                 |
+|------------------------|---------------|----------------------|
+| Muhammad Abiyyu habibi | **G64180066** | Game Design & Artist |
+| Reza Achmad Naufal     | **G64180078** | Programmer           |
+| Muhammad Fahrury R     | **G64180069** | Programmer           | <br/>
+
 ## Story
 Pada suatu hari dunia menjadi kacau dan dipenuhi oleh makhluk-makhluk aneh yang akan membunuh setiap orang. Untuk menyelamatkan dunia, sesorang harus menjadi seorang kesatria terkuat dengan cara mengambil peralatan tempur yang berada di sebuah desa di dalam hutan untuk membasmi semua makhluk-makhluk aneh tersebut. Dalam perjalanan untuk menjadi seorang kesatria terkuat, akan ada banyak musuh dari makhluk-makhluk aneh yang harus dihadapi satu-persatu dan setiap raja yang kuat pada setiap tempatnya.
 
