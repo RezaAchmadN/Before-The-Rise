@@ -1,4 +1,4 @@
-# ZombieBTR
+# Before The Rise
 
 ## Pembagian Role :
 | Nama                   | NIM           | Role                 |
